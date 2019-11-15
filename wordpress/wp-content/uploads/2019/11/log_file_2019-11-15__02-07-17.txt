@@ -1,0 +1,143 @@
+
+---Downloaded files---
+The import files for: Default were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/wordpress
+Data file = C:\xampp\htdocs\wordpress/wp-content/uploads/2019/11/demo-content-import-file_2019-11-15__02-07-17.xml
+Widget file = C:\xampp\htdocs\wordpress/wp-content/uploads/2019/11/demo-widgets-import-file_2019-11-15__02-07-17.json
+Customizer file = C:\xampp\htdocs\wordpress/wp-content/uploads/2019/11/demo-customizer-import-file_2019-11-15__02-07-17.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "sports26" (Media)
+[ERROR] Failed to import "sports14" (Media)
+[ERROR] Failed to import "sports18" (Media)
+[ERROR] Failed to import "sports24" (Media)
+[ERROR] Failed to import "sports25" (Media)
+[ERROR] Failed to import "news_post5" (Media)
+[ERROR] Failed to import "IehB7" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "sports26" (Media)
+[ERROR] Failed to import "sports14" (Media)
+[ERROR] Failed to import "sports18" (Media)
+[ERROR] Failed to import "sports24" (Media)
+[ERROR] Failed to import "sports25" (Media)
+[ERROR] Failed to import "news_post5" (Media)
+[ERROR] Failed to import "IehB7" (Media)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Right Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Recent Comments - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Homepage Sidebar : 
+
+BN Sidebar: Post List - Post List view - Imported
+BN Sidebar: Grid Layout - Latest Posts - Imported
+BN Sidebar: Most Read - Most read - Imported
+
+Homepage Content : 
+
+BN: Big Post And List Post - Post List view - Imported
+BN:Post Grid Layout - Latest Posts - Imported
+BN:Post List Layout - Post List view - Imported
+
+Footer First : 
+
+BN Sidebar: Post List - Post List view - Imported
+
+Footer Second : 
+
+BN Sidebar: Post List - Post List view - Imported
+
+Footer Third : 
+
+BN Sidebar: Post List - Post List view - Imported
+
+Footer Four : 
+
+BN Sidebar: Post List - Post List view - Imported
+
+
+
+---Importing widgets---
+Right Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Recent Comments - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Homepage Sidebar : 
+
+BN Sidebar: Post List - Post List view - Widget already exists
+BN Sidebar: Grid Layout - Latest Posts - Widget already exists
+BN Sidebar: Most Read - Most read - Widget already exists
+
+Homepage Content : 
+
+BN: Big Post And List Post - Post List view - Widget already exists
+BN:Post Grid Layout - Latest Posts - Widget already exists
+BN:Post List Layout - Post List view - Widget already exists
+
+Footer First : 
+
+BN Sidebar: Post List - Post List view - Widget already exists
+
+Footer Second : 
+
+BN Sidebar: Post List - Post List view - Widget already exists
+
+Footer Third : 
+
+BN Sidebar: Post List - Post List view - Widget already exists
+
+Footer Four : 
+
+BN Sidebar: Post List - Post List view - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

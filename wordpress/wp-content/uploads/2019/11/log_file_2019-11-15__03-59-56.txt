@@ -1,0 +1,57 @@
+
+---Downloaded files---
+The import files for: Default were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/wordpress
+Data file = C:\xampp\htdocs\wordpress/wp-content/uploads/2019/11/demo-content-import-file_2019-11-15__03-59-56.xml
+Widget file = C:\xampp\htdocs\wordpress/wp-content/uploads/2019/11/demo-widgets-import-file_2019-11-15__03-59-56.json
+Customizer file = C:\xampp\htdocs\wordpress/wp-content/uploads/2019/11/demo-customizer-import-file_2019-11-15__03-59-56.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Right Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Recent Comments - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Homepage Sidebar : 
+
+BN Sidebar: Post List - Post List view - Imported
+BN Sidebar: Grid Layout - Latest Posts - Imported
+BN Sidebar: Most Read - Most read - Imported
+
+Homepage Content : 
+
+BN: Big Post And List Post - Post List view - Imported
+BN:Post Grid Layout - Latest Posts - Imported
+BN:Post List Layout - Post List view - Imported
+
+Footer First : 
+
+BN Sidebar: Post List - Post List view - Imported
+
+Footer Second : 
+
+BN Sidebar: Post List - Post List view - Imported
+
+Footer Third : 
+
+BN Sidebar: Post List - Post List view - Imported
+
+Footer Four : 
+
+BN Sidebar: Post List - Post List view - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
